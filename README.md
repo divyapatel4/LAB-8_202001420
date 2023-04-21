@@ -111,7 +111,7 @@ public class BoaTest {
 
 In this version, we have created two instances of the **`Boa`** class named **`jen`** and **`ken`** with fixed attributes in the **`setUp`** method using the **`new`** operator. We then perform two tests on these instances in the **`testIsHealthy`** and **`testFitsInCage`** methods using the **`Assert`** class methods **`assertTrue`** and **`assertFalse`** to check if the instances meet certain criteria.
 
-**. Modified testIsHealthy() method in the BoaTest class :**
+**5. Modified testIsHealthy() method in the BoaTest class :**
 
 ```java
 @Test
