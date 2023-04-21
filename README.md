@@ -178,6 +178,9 @@ In this modified version, we have added four more test cases to check the **`fit
 
 <img width="1049" alt="Untitled 2" src="https://user-images.githubusercontent.com/82770981/233616517-d850163d-7398-4c84-9c2e-a5015e2f745a.png">
 
+**. Test Results **
+<img width="570" alt="image" src="https://user-images.githubusercontent.com/82770981/233617498-edb72ab1-3875-4e6b-b0c7-6ebf7bac361e.png">
+
 
 7.  **Adding a new method to the Boa class**
 
@@ -237,3 +240,7 @@ public class BoaTest {
     }
 }
 ```
+
+**.  Test Results **
+<img width="574" alt="image" src="https://user-images.githubusercontent.com/82770981/233617648-c05fe5e8-0468-433a-88af-a504c9a15acf.png">
+
