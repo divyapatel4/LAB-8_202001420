@@ -214,6 +214,8 @@ public class Boa {
     }
 }
 ```
+<img width="786" alt="image" src="https://user-images.githubusercontent.com/82770981/233619454-0c14da7d-8f65-4427-a8b4-e208cbb767b2.png">
+
 
 **Test Cases for LengthInInches Method:**
 
